@@ -69,13 +69,11 @@
 
 > 📐 **图纸比例 1:200**（图上 1cm = 实际 2m）
 
-![户型图](image/layout/1774531823143.png)
+![户型图](https://raw.githubusercontent.com/zalelab/zhuangxiu-research/master/image/layout/1774531823143.png)
 
 #### 🎬 房间实拍视频
 
-<video src="room-video.mp4" controls width="600" preload="metadata">
-  您的浏览器不支持视频播放，请 <a href="room-video.mp4">点击下载</a> 观看。
-</video>
+https://github.com/zalelab/zhuangxiu-research/raw/master/room-video.mp4
 
 ### 各区域说明
 
